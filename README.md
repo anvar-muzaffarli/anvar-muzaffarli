@@ -4,7 +4,7 @@
 
 ## JavaScript Developer | Instructor
 
-<font color="pink">İş görüşmələri üçün olan profil deyil. Ona görə də "perfectionist" "proqramçı"lar iradlarını bildirməmişdən qabaq məni tanıyıb daha sonra geridönüş etsinlər. Outsource layihələrdə çalışdğım üçün layihə kodlarımı sizə göstərəsi deyiləm və nədə ki envato marketdən 3 dənə script alıb öz kodum kimi camaata təqdim edəcək proqramçı deyiləm. Proqramlaşdırma səviyyəm Microsoft şirkətinin təltif etdiyi DevOps Engineer Expert levelindədir. Boşuna mənə müraciət edənləri Envato scripti ilə özünə çəkməyin. Sağlam rəqabət aparın deyə bilmirəm, çünki başdan ayağa çürüksünüz :) </font>
+<font color="pink">Best developer ever. Expert at Azure DevOps </font>
 <br> <br> <br>
 
 # Reach out to me
